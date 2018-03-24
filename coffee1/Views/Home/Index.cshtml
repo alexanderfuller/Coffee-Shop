@@ -1,0 +1,48 @@
+﻿@model coffee1.Models.Beverage
+@{
+    ViewBag.Title = "Index";
+ 
+}
+
+
+
+
+<br />
+<br />
+<br />
+<h2>Coffee Shop</h2>
+ 
+<div id="radioBtnList">
+    <fieldset id="Stats">
+        <h2>Select Coffee($1.00)</h2>
+        <form name="myForm"  action = "/Home/display " method="post">
+            <input type="radio" class="opt" name="Coffee" value="Columbian">Columbian
+            <br>
+            <input type="radio" class="opt" name="Coffee" value="Decaf">Decaf
+            <br>
+            <input type="radio" class="opt" name="Coffee" value="Espresso">Espresso<br />
+            <input type="radio" class="opt" name="Coffee" value="FrenchRoast">FrenchRoast<br />
+            <input type="radio" class="opt" name="Coffee" value="ViennaRoast">ViennaRoast<br />
+            <h2>Select Addons/Amounts</h2>
+            PumpkinSpice:$1.00  <input type="number" name="Decorator1" min="0" max="10" step="1" value="0"><br /><br />
+            Milk:$.50  <input type="number" name="Decorator2" min="0" max="10" step="1" value="0"><br /><br />
+            Soy:$1.00  <input type="number" name="Decorator3" min="0" max="10" step="1" value="0"><br /><br />
+            CaramelSyrup:$1.75  <input type="number" name="Decorator4" min="0" max="10" step="1" value="0"><br /><br />
+            Espresso Shot:$1.00  <input type="number" name="Decorator5" min="0" max="10" step="1" value="0"><br /><br />
+            Mocha:$1.00  <input type="number" name="Decorator6" min="0" max="10" step="1" value="0"><br /><br />
+            SkimMilk:$2.00  <input type="number" name="Decorator7" min="0" max="10" step="1" value="0"><br /><br />
+            Vanilla:$1.00  <input type="number" name="Decorator8" min="0" max="10" step="1" value="0"><br /><br />
+            WhipCream:$3.00  <input type="number" name="Decorator9" min="0" max="10" step="1" value="0"><br /><br />
+            Cinnamon:$.25  <input type="number" name="Decorator10" min="0" max="10" step="1" value="0"><br /><br />
+            <br /><br />
+
+            <input type="submit" id="btnStart" value="Submit" onclick="btnStart_Click" />
+            <br /><br />
+        </form>
+    </fieldset>
+
+  
+    
+
+    
+   

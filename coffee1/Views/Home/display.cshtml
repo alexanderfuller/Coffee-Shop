@@ -1,0 +1,44 @@
+﻿@model coffee1.Models.Beverage
+@{
+    ViewBag.Title = "display";
+}
+
+
+
+
+<br />
+<br />
+<br />
+<h2>Your Order</h2>
+
+   @ViewBag.espresso.GetDescription()
+
+@ViewBag.FrenchRoast.GetDescription()
+
+
+@ViewBag.Decaf.GetDescription()
+
+
+@ViewBag.columbian.GetDescription()
+
+
+@ViewBag.ViennaRoast.GetDescription()
+
+
+
+ 
+          
+        
+          
+            @ViewBag.pumpkinSpice 
+            @ViewBag.milk 
+            @ViewBag.soy 
+            @ViewBag.caramelsyrup 
+            @ViewBag.espressoshot 
+            @ViewBag.mocha 
+            @ViewBag.skimMilk 
+            @ViewBag.vanilla
+            @ViewBag.whipcream 
+            @ViewBag.cinnamon 
+
+    $@ViewBag.price

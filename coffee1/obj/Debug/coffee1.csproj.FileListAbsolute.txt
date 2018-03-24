@@ -1,0 +1,53 @@
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\obj\Debug\coffee1.csprojResolveAssemblyReference.cache
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\coffee1.dll.config
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\coffee1.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\coffee1.pdb
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Helpers.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Mvc.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Razor.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Webpages.Deployment.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Webpages.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Webpages.Razor.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Razor.xml
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Webpages.xml
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Webpages.Deployment.xml
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Webpages.Razor.xml
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Helpers.xml
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\bin\System.Web.Mvc.xml
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\obj\Debug\coffee1.dll
+c:\users\burkejc\documents\visual studio 2013\Projects\coffee1\coffee1\obj\Debug\coffee1.pdb
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\coffee1.dll.config
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\coffee1.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\coffee1.pdb
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Helpers.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Razor.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Razor.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Razor.xml
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.xml
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Razor.xml
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\bin\System.Web.Helpers.xml
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\obj\Debug\coffee1.dll
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\obj\Debug\coffee1.pdb
+C:\Users\AJ\Downloads\coffee1 (1)\coffee1\coffee1\obj\Debug\coffee1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\coffee1.dll.config
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\coffee1.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\coffee1.pdb
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Helpers.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Mvc.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Razor.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Razor.xml
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.xml
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Helpers.xml
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\System.Web.Mvc.xml
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\obj\Debug\coffee1.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\obj\Debug\coffee1.dll
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\obj\Debug\coffee1.pdb
+C:\Users\Alexander\Documents\lab5\coffee1 (1)\coffee1\coffee1\bin\Microsoft.Web.Infrastructure.dll
